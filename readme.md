@@ -24,7 +24,7 @@ Alternatively, you can install it directly using `go install`:
 ```sh
 go install github.com/ctrl-vfr/json-weather-cli@latest
 ```
-Make sure your `$GOPATH/bin` is in your system's `PATH` to run `weather` from anywhere.
+Make sure your `$GOPATH/bin` is in your system's `PATH` to run `json-weather-cli` from anywhere.
 
 ## Usage
 
